@@ -1,0 +1,16 @@
+[
+  {
+    "id": "x001",
+    "question": "Bibo muốn đầu tư vào Bitcoin. Đây thuộc loại tài sản nào?",
+    "answers": [
+      "Tài sản kỹ thuật số phi tập trung (Cryptocurrency)",
+      "Cổ phiếu niêm yết trên sàn chứng khoán",
+      "Trái phiếu chính phủ kỳ hạn 10 năm",
+      "Chứng chỉ tiết kiệm ngân hàng"
+    ],
+    "correct": 0,
+    "explanation": "Cryptocurrency là tài sản kỹ thuật số sử dụng mật mã học để bảo mật, không do ngân hàng trung ương phát hành và kiểm soát.",
+    "difficulty": "easy",
+    "category": "investing"
+  }
+]
